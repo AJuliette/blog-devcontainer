@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Trying the [Rails 7.2 devcontainer](https://guides.rubyonrails.org/7_2_release_notes.html#development-containers-configuration-for-applications) following [Go Rails' video](https://gorails.com/episodes/how-to-use-dev-containers-with-rails).
